@@ -25,13 +25,18 @@
       - Enforce pull requests for all code changes.
 
     - **Improve the chosen database's structure:**
-      - Document the database design following data modeling standards.
+      - Document the database design following data modelling standards.
       - Provide a justification for the chosen database technology.
 
     - **You are free to choose your preferred cloud provider but must utilize serverless services:**
       - **Functions:** AWS Lambda, Azure Functions, or Google Cloud Functions (or similar).
       - **Managed Databases:** AWS RDS, Azure SQL Database, Google Cloud SQL (or similar).
       - **Authentication Systems:** AWS Cognito, Microsoft Azure Active Directory, Google Cloud Identity Platform (or similar).
+     
+## Current infrastructure
+![Current infrastructure](https://github.com/user-attachments/assets/c5325ee8-7856-4d85-86e9-5428ae7049f1)
+
+
 <!--
 
 **Here are some ideas to get you started:**
