@@ -10,7 +10,7 @@
    - [Testing locally](#running-with-kubernetes-locally)
       -  to get some help with application flow testing, click [here](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger?tab=readme-ov-file#testing)
    - [Video](https://www.youtube.com/watch?v=34ffDcUoUTg)
- - Phase 3 Deliverables
+ - #### Phase 3 Deliverables
     - **Implement an API Gateway and a serverless function for client authentication using CPF (Brazilian ID number).**
         - Integrate with the authentication system to identify the client.
 
