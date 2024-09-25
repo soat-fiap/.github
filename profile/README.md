@@ -34,7 +34,7 @@
       - **Functions:** AWS Lambda, Azure Functions, or Google Cloud Functions (or similar).
       - **Managed Databases:** AWS RDS, Azure SQL Database, Google Cloud SQL (or similar).
       - **Authentication Systems:** AWS Cognito, Microsoft Azure Active Directory, Google Cloud Identity Platform (or similar).
-    - [Video](https://www.youtube.com/watch?v=34ffDcUoUTg)
+    - [Video]([https://www.youtube.com/watch?v=34ffDcUoUTg](https://www.youtube.com/watch?v=J2rRSJy24kM))
 
 <details>
    <summary>Pipeline flow</summary>
