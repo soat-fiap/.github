@@ -69,7 +69,7 @@
   </details>
 
 ## Current infrastructure
-![Current infrastructure](https://github.com/user-attachments/assets/c5325ee8-7856-4d85-86e9-5428ae7049f1)
+![Current infrastructure](https://github.com/user-attachments/assets/989de8a8-5684-499c-b84b-aa5ff8edb207)
 
 
 <!--
