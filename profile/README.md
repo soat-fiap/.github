@@ -15,12 +15,13 @@
         - Integrate with the authentication system to identify the client.
 
     - **Implement CI/CD best practices, separating code into distinct repositories:**
-      - **Repository 1:** [Lambda function code](https://github.com/soat-fiap/bmb.authenticator)
-      - **Repository 2:** [Kubernetes infrastructure defined with Terraform](https://github.com/soat-fiap/bmb.infra)
-      - **Repository 3:** [Managed database infrastructure defined with Terraform](https://github.com/soat-fiap/bmb.database)
-      - **Repository 4:** [Application code deployed to Kubernetes](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger)
-      - ***Repository 5:** [Process domain events asynchronously](https://github.com/soat-fiap/bmb.events.processor)
-      - ***Repository 6:** [Segregated repository for User management (AWS Cognito)](https://github.com/soat-fiap/bmb.users)
+      > all repositories have the latest tag available 
+      - **Repository 1:** [Lambda function code (tag v1.0.0)](https://github.com/soat-fiap/bmb.authenticator/tree/v1.0.0)
+      - **Repository 2:** [Kubernetes infrastructure defined with Terraform (tag v1.0.0)](https://github.com/soat-fiap/bmb.infra/tree/v1.0.0)
+      - **Repository 3:** [Managed database infrastructure defined with Terraform (tag v1.0.0)](https://github.com/soat-fiap/bmb.database/tree/v1.0.0)
+      - **Repository 4:** [Application code deployed to Kubernetes (tag v1.0.0)](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/tree/v3.0.0)
+      - ***Repository 5:** [Process domain events asynchronously (tag v1.0.0)](https://github.com/soat-fiap/bmb.events.processor/tree/v1.0.0)
+      - ***Repository 6:** [Segregated repository for User management (AWS Cognito) (tag v1.0.0)](https://github.com/soat-fiap/bmb.users/tree/v1.0.0)
 
     - **Configure automated deployments to the cloud account using actions for each repository:**
       - Protect `main`/`master` branches to prevent direct commits. 
