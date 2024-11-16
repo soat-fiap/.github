@@ -41,19 +41,19 @@
          - [Payment](https://github.com/soat-fiap/bmb.payment)
            - Using DynamoDB as database
            - BDD 
-             - test: https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/DispatcherSteps.cs
-             - feature file: https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/Dispatcher.feature
+             - [test](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/DispatcherSteps.cs) 
+             - [feature file](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/Dispatcher.feature) 
         - [KDS](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger)
             - Using Redis as database
             - BDD 
-              - test: TBD
-              - feature file: TBD
+              - [test](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/blob/main/tests/FIAP.TechChallenge.ByteMeBurger.Application.Test/UseCases/Orders/Gherkin/CreateOrderSteps.cs)
+              - [feature file](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/blob/main/tests/FIAP.TechChallenge.ByteMeBurger.Application.Test/UseCases/Orders/Gherkin/CreateOrderSteps.cs)
 
          - [Orders](https://github.com/soat-fiap/bmb.production)
             - Using MySql as database
             - BDD 
-              - test: TBD
-              - feature file: TBD
+              - [test](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatusSteps.cs)
+              - [feature file](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/PrepareOrder.feature)
     - [Video](https://www.youtube.com/watch?v=J2rRSJy24kM)
 
 <details>
