@@ -43,13 +43,13 @@
            - BDD 
              - [test](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/DispatcherSteps.cs) 
              - [feature file](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/Dispatcher.feature) 
-        - [KDS](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger)
+        - [KDS](https://github.com/soat-fiap/bmb.production)
             - Using Redis as database
             - BDD 
               - [test](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/blob/main/tests/FIAP.TechChallenge.ByteMeBurger.Application.Test/UseCases/Orders/Gherkin/CreateOrderSteps.cs)
               - [feature file](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/blob/main/tests/FIAP.TechChallenge.ByteMeBurger.Application.Test/UseCases/Orders/Gherkin/CreateOrderSteps.cs)
 
-         - [Orders](https://github.com/soat-fiap/bmb.production)
+         - [Orders](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger)
             - Using MySql as database
             - BDD 
               - [test](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatusSteps.cs)
