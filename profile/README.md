@@ -89,7 +89,7 @@
   </details>
 
 ## Current infrastructure
-![Current infrastructure](https://github.com/user-attachments/assets/989de8a8-5684-499c-b84b-aa5ff8edb207)
+![Current infrastructure](arch-diagram.png)
 
 
 <!--
