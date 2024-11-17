@@ -46,8 +46,8 @@
         - [KDS](https://github.com/soat-fiap/bmb.production)
             - Using Redis as database
             - BDD 
-              - [test](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/blob/main/tests/FIAP.TechChallenge.ByteMeBurger.Application.Test/UseCases/Orders/Gherkin/CreateOrderSteps.cs)
-              - [feature file](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/blob/main/tests/FIAP.TechChallenge.ByteMeBurger.Application.Test/UseCases/Orders/Gherkin/CreateOrderSteps.cs)
+              - [test](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatusSteps.cs)
+              - [feature file](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatus.feature)
 
          - [Orders](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger)
             - Using MySql as database
