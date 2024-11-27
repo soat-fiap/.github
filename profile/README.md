@@ -39,17 +39,20 @@
   - Phase 4 Deliverables
       - Refactor the project, separating it into at least three (3) microservices.
          - [Payment](https://github.com/soat-fiap/bmb.payment)
+           - [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=soat-fiap_bmb.payment&metric=coverage)](https://sonarcloud.io/summary/new_code?id=soat-fiap_bmb.payment)  
            - Using DynamoDB as database
            - BDD 
              - [test](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/DispatcherSteps.cs) 
              - [feature file](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/Dispatcher.feature) 
         - [KDS](https://github.com/soat-fiap/bmb.production)
+            - [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=soat-fiap_bmb.production&metric=coverage)](https://sonarcloud.io/summary/new_code?id=soat-fiap_bmb.production)
             - Using Redis as database
             - BDD 
               - [test](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatusSteps.cs)
               - [feature file](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatus.feature)
 
          - [Orders](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger)
+            - [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=soat-fiap_FIAP.TechChallenge.ByteMeBurger&metric=coverage)](https://sonarcloud.io/summary/new_code?id=soat-fiap_FIAP.TechChallenge.ByteMeBurger)
             - Using MySql as database
             - BDD 
               - [test](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatusSteps.cs)
@@ -90,6 +93,11 @@
 
 ## Current infrastructure
 ![Current infrastructure](arch-diagram.png)
+
+### Services communication
+![image](https://github.com/user-attachments/assets/d6ae1adf-f816-425e-9d20-a730bd81c32b)
+
+
 
 
 <!--
