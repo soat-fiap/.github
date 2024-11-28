@@ -57,7 +57,7 @@
             - BDD 
               - [test](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatusSteps.cs)
               - [feature file](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/PrepareOrder.feature)
-    - [Video](https://www.youtube.com/watch?v=J2rRSJy24kM)
+    - [Video](https://youtu.be/dQzKPW_0EKY)
 
 <details>
    <summary>Pipeline flow</summary>
