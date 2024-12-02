@@ -36,7 +36,7 @@
       - Managed Databases: AWS RDS, Azure SQL Database, Google Cloud SQL (or similar).
       - Authentication Systems: AWS Cognito, Microsoft Azure Active Directory, Google Cloud Identity Platform (or similar).
     - [Video](https://www.youtube.com/watch?v=J2rRSJy24kM)
-  - Phase 4 Deliverables
+  - #### Phase 4 Deliverables
       > The repositories listed below can also be found on the pinned list
       - Refactor the project, separating it into at least three (3) microservices.
          - [Payment](https://github.com/soat-fiap/bmb.payment)
@@ -70,7 +70,7 @@
     - [Video](https://youtu.be/dQzKPW_0EKY)
 
 <details>
-   <summary>Pipeline flow</summary>
+   <summary>Pipeline flow (deprecated)</summary>
          
   ```mermaid
            graph TD
