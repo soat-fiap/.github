@@ -37,19 +37,26 @@
       - Authentication Systems: AWS Cognito, Microsoft Azure Active Directory, Google Cloud Identity Platform (or similar).
     - [Video](https://www.youtube.com/watch?v=J2rRSJy24kM)
   - Phase 4 Deliverables
+      > The repositories listed below can also be found on the pinned list
       - Refactor the project, separating it into at least three (3) microservices.
          - [Payment](https://github.com/soat-fiap/bmb.payment)
            - [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=soat-fiap_bmb.payment&metric=coverage)](https://sonarcloud.io/summary/new_code?id=soat-fiap_bmb.payment)  
            - Using DynamoDB as database
            - BDD 
              - [test](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/DispatcherSteps.cs) 
-             - [feature file](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/Dispatcher.feature) 
+             - [feature file](https://github.com/soat-fiap/bmb.payment/blob/main/tests/Bmb.Payment.Bus.Test/Gherkin/Dispatcher.feature)
+           - CI/CD
+             - [test](https://github.com/soat-fiap/bmb.payment/actions/runs/11982277404)
+             - [deploy](https://github.com/soat-fiap/bmb.payment/actions/runs/12072866964)
         - [KDS](https://github.com/soat-fiap/bmb.production)
             - [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=soat-fiap_bmb.production&metric=coverage)](https://sonarcloud.io/summary/new_code?id=soat-fiap_bmb.production)
             - Using Redis as database
             - BDD 
               - [test](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatusSteps.cs)
               - [feature file](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatus.feature)
+           - CI/CD
+             - [tests](https://github.com/soat-fiap/bmb.production/actions/runs/11982352596)
+             - [deploy](https://github.com/soat-fiap/bmb.production/actions/runs/12010846206) 
 
          - [Orders](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger)
             - [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=soat-fiap_FIAP.TechChallenge.ByteMeBurger&metric=coverage)](https://sonarcloud.io/summary/new_code?id=soat-fiap_FIAP.TechChallenge.ByteMeBurger)
@@ -57,6 +64,9 @@
             - BDD 
               - [test](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/UpdateOrderStatusSteps.cs)
               - [feature file](https://github.com/soat-fiap/bmb.production/blob/main/tests/Bmb.Production.Application.Test/Gherkin/PrepareOrder.feature)
+            - CI/CD
+              - [tests](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/actions/runs/11982275005)
+              - [deploy](https://github.com/soat-fiap/FIAP.TechChallenge.ByteMeBurger/actions/runs/12072347402)  
     - [Video](https://youtu.be/dQzKPW_0EKY)
 
 <details>
