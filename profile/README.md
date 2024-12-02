@@ -104,7 +104,7 @@
 ## Current infrastructure
 ![Current infrastructure](arch-diagram.png)
 
-### Services communication
+### Services communication (ECST)
 ![image](comunicacao_servicos.drawio.png)
 
 <details open>
