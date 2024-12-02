@@ -105,10 +105,17 @@
 ![Current infrastructure](arch-diagram.png)
 
 ### Services communication
-![image](https://github.com/user-attachments/assets/d6ae1adf-f816-425e-9d20-a730bd81c32b)
+![image](comunicacao_servicos.drawio.png)
 
+<details open>
+   <summary>Resources created by Masstransit</summary>
 
+#### SNS
+![SNS topics](sns.png)
 
+#### SQS
+![SNS Queues](sqs.png)
+</details>
 
 <!--
 
